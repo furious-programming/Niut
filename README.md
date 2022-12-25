@@ -1,1 +1,1 @@
-*This document will be completed in the near future.*
+*This document will be completed in the far or near future.*
