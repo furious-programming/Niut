@@ -1,2 +1,1 @@
-# niut
-A hypothetical programming language designed for low-level applications and video game programming.
+*This document will be completed in the near future.*
